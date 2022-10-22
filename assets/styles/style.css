@@ -31,12 +31,14 @@ body{
 }
 .list{
     padding-bottom: 25px;
+    margin-left: 30%;
 }
 .timeLine{
     margin-left: 10rem;
 }
 .testimonial{
     font-style: italic;
+    margin-left: 30%;
 }
 .wikiEntry{
     text-align: center;
