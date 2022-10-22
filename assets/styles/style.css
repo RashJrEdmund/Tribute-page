@@ -1,0 +1,46 @@
+body{
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+.bodyback{
+    background-color:rgb(238, 238, 238);
+    border-radius: 5px;
+}
+.top{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 19px;
+}
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 22px;
+}
+.photogrp{
+    text-align: center;
+    background-color: #fff;
+    margin: 10px;
+    border-radius: 3px;
+}
+.h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    padding-bottom: 35px;
+    padding-top: 35px;
+}
+.list{
+    padding-bottom: 25px;
+}
+.timeLine{
+    margin-left: 10rem;
+}
+.testimonial{
+    font-style: italic;
+}
+.wikiEntry{
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+    padding-top: 40px;
+}
