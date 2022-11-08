@@ -4,7 +4,8 @@
     This project was made by "RASH"
 
 ## About
-   This project was a simple assignment given to test our still growing skills. it's about implementing a tribute page for Dr. Norman Borlaug
+   This project was a simple assignment given to test our still growing skills. it's about implementing a tribute page for Dr. Norman Borlaug a man who dedicated a huge part of his life to battling hunger
+
 
 ## OPENNING THE PROGRAM
     It is as simple as clicking on it's link, or searching this url on your browser "///"
@@ -24,4 +25,4 @@
     -all this is done using your Linux terminal or git-bash for windows users.
 
 ## CONTRIBUTION
-    Contributions, issues, and feature requests are welcome!
+    Contributions, issues, and feature requests are welcome! really.
