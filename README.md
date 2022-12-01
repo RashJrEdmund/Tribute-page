@@ -34,7 +34,7 @@ Feel free to check the [issues page](`https://github.com/RashJrEdmund/Tribute-pa
 
 ## AUTHOR
 **RASH**
-- GitHub: [@RashJrEdmund](https://github.com/RashJrEdmund/Tribute-page)
+- GitHub: [@RashJrEdmund](https://github.com/RashJrEdmund)
 
 ## License
 This project is [w3school](./LICENSE) licensed.
