@@ -4,7 +4,7 @@ body {
 }
 
 .bodyback {
-  background-color:rgba(255, 255, 255);
+  background-color: #fff;
   border-radius: 5px;
 }
 
@@ -54,7 +54,7 @@ body {
   width: fit-content;
 }
 
-.wikiEntry {
+.wiki_entry {
   text-align: center;
   font-weight: bold;
   font-size: 19px;
