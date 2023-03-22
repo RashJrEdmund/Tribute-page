@@ -43,7 +43,7 @@ body {
   padding-bottom: 25px;
 }
 
-.timeLine {
+.time-line {
   max-width: fit-content;
   margin: auto;
 }
@@ -54,7 +54,7 @@ body {
   width: fit-content;
 }
 
-.wiki_entry {
+.wiki-entry {
   text-align: center;
   font-weight: bold;
   font-size: 19px;
